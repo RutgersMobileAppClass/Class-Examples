@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DictionaryGame</string>
+    <string-array name="pokemon">
+        <item>Snorlax</item>
+        <item>Jigglypuff</item>
+        <item>Charizard</item>
+        <item>Electabuzz</item>
+    </string-array>
+</resources>
